@@ -1,0 +1,4 @@
+node_modules
+.env
+googleTextToSpeachKey.json
+data.json

@@ -1,0 +1,6 @@
+export { default as login } from './login'
+export { default as registration } from './registration'
+export { default as root } from './root'
+export { default as tests } from './tests'
+export { default as textToSpeech } from './textToSpeech'
+export { default as words } from './words'
